@@ -1,121 +1,164 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f766e,50:2563eb,100:111827&text=Yao%20Kai&fontColor=ffffff&fontSize=52&fontAlignY=38&desc=AI%20Agent%20Developer%20%7C%20Multimodal%20RAG%20%7C%20Real-time%20Voice%20AI&descAlignY=58&descSize=18" alt="Yao Kai banner">
+# Hi, I'm YaoKai
 
-<p>
-  <a href="https://github.com/yaokai123?tab=repositories">
-    <img src="https://img.shields.io/badge/Projects-AI%20Agents%20%26%20RAG-0f766e?style=for-the-badge" alt="Projects">
-  </a>
-  <a href="https://github.com/yaokai123">
-    <img src="https://img.shields.io/badge/Focus-Production%20AI%20Systems-2563eb?style=for-the-badge" alt="Focus">
-  </a>
-  <a href="https://github.com/yaokai123">
-    <img src="https://img.shields.io/badge/GitHub-yaokai123-111827?style=for-the-badge&logo=github" alt="GitHub">
-  </a>
-</p>
+**AI Agent Runtime / Multimodal AI / Enterprise AI Assistant**
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&duration=2600&pause=900&color=0F766E&center=true&vCenter=true&width=820&lines=Building+AI+systems+that+are+useful+and+explainable;Connecting+LLMs%2C+RAG%2C+voice%2C+multimodal+signals+and+workflows;Turning+AI+demos+into+real+product+experiences" alt="Typing SVG">
+我关注如何把大模型能力做成真正可运行、可治理、可评测、可落地的 AI 系统：既能进入企业工作流，也能处理多模态交互、知识检索、风险识别和长期任务协作。
+
+[![AI Agent](https://img.shields.io/badge/AI-Agent%20Runtime-6f42c1)](#)
+[![Multimodal](https://img.shields.io/badge/Multimodal-AI%20Application-0f766e)](#)
+[![Spring AI](https://img.shields.io/badge/Spring%20AI-Backend%20Agents-22c55e)](#)
+[![TypeScript](https://img.shields.io/badge/TypeScript-Agent%20Platform-3178c6)](#)
+[![Evaluation](https://img.shields.io/badge/Evaluation-Replay%20%26%20Scorecard-b45309)](#)
 
 </div>
 
-About
-I build applied AI systems that combine LLMs, retrieval, voice interaction, multimodal analysis, and backend workflows. My focus is not only making models respond, but making the whole product loop reliable: data flow, safety boundaries, explainable results, operational dashboards, and deployment.
-I am currently working around AI agents, RAG systems, real-time voice AI, and human-in-the-loop support workflows.
-Featured Build
-<table>
-  <tr>
-    <td width="58%">
-      <h3><a href="https://github.com/yaokai123/multimodal-mindcare-agent">Multimodal MindCare Agent</a></h3>
-      <p>
-        A campus mental-health support system with student chat, RAG, multimodal risk assessment,
-        crisis workflow, admin case management, and real-time voice architecture.
-      </p>
-      <p>
-        <b>What makes it different:</b> it connects the full path from student conversation to
-        risk detection, support records, knowledge-grounded answers, administrator workflow,
-        and deployment with local GPU inference.
-      </p>
-    </td>
-    <td width="42%">
-      <b>Core stack</b><br><br>
-      Java 17<br>
-      Spring Boot / WebFlux<br>
-      Spring AI / Ollama / Qwen2.5<br>
-      RAG / Chroma / MySQL / Redis<br>
-      Docker Compose / GPU inference<br>
-      LiveKit / ASR / TTS
-    </td>
-  </tr>
-</table>
+---
 
-Capability Map
-Layer	Capabilities
-Student Experience	SSE chat, mood journal, tiny tasks, support goals, conversation history
-Risk Workflow	Risk tickets, SLA handling, intervention timeline, contact records, audit logs
-Knowledge System	RAG citations, categories, retrieval test console, version management, feedback
-Multimodal AI	Text/audio/visual confidence, risk explanation, human review signal
-Voice AI	LiveKit control channel, Doubao ASR, Doubao TTS, interruption, session summary
-Deployment	Docker Compose, MySQL, Redis, Chroma, Mailpit, Ollama, GPU-backed inference
+## About Me
 
-Current Focus
-<table>
-  <tr>
-    <td><b>AI Agents</b></td>
-    <td>Tool use, control channels, workflow orchestration, long-running product flows</td>
-  </tr>
-  <tr>
-    <td><b>RAG Systems</b></td>
-    <td>Knowledge ingestion, citation tracing, retrieval quality, knowledge operations</td>
-  </tr>
-  <tr>
-    <td><b>Voice AI</b></td>
-    <td>Streaming ASR/TTS, interruptible dialogue, real-time voice assistant architecture</td>
-  </tr>
-  <tr>
-    <td><b>Multimodal AI</b></td>
-    <td>Signal fusion, confidence display, explainable risk output, review workflows</td>
-  </tr>
-  <tr>
-    <td><b>Backend Engineering</b></td>
-    <td>Spring Boot, WebFlux, REST/SSE APIs, Docker Compose, MySQL, Redis</td>
-  </tr>
-</table>
+我主要在做两类 AI 工程实践：
 
-Toolbox
-<p>
-  <img src="https://img.shields.io/badge/Java-17-007396?style=flat-square&logo=openjdk&logoColor=white" alt="Java">
-  <img src="https://img.shields.io/badge/Spring%20Boot-3.x-6DB33F?style=flat-square&logo=springboot&logoColor=white" alt="Spring Boot">
-  <img src="https://img.shields.io/badge/WebFlux-Reactive-6DB33F?style=flat-square" alt="WebFlux">
-  <img src="https://img.shields.io/badge/Python-AI%20Tools-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/Docker-Compose-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker">
-  <img src="https://img.shields.io/badge/MySQL-8.x-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL">
-  <img src="https://img.shields.io/badge/Redis-Cache-DC382D?style=flat-square&logo=redis&logoColor=white" alt="Redis">
-  <img src="https://img.shields.io/badge/Ollama-Local%20LLM-111111?style=flat-square" alt="Ollama">
-  <img src="https://img.shields.io/badge/Qwen2.5-LLM-1f2937?style=flat-square" alt="Qwen">
-  <img src="https://img.shields.io/badge/RAG-Knowledge%20Systems-0f766e?style=flat-square" alt="RAG">
-  <img src="https://img.shields.io/badge/Chroma-Vector%20DB-2563eb?style=flat-square" alt="Chroma">
-  <img src="https://img.shields.io/badge/LiveKit-Realtime%20Voice-00AEEF?style=flat-square" alt="LiveKit">
-</p>
+- **企业级 Agent Runtime**：让 AI 不只是在终端里回答问题，而是可以进入 IM、Dashboard、任务流、工具链、权限治理和成本中心，成为可协作的 AI 同事。
+- **多模态 AI 应用**：把文本、语音、视觉、RAG、心理风险评估和工具调用组合到真实业务流程里，关注产品闭环与安全边界。
 
-GitHub Snapshot
-<div align="center">
+我喜欢把 AI 项目做成“可验证的系统”，而不是只展示一次漂亮回复。对我来说，Agent 项目应该同时具备：
 
-<img height="168" src="https://github-readme-stats.vercel.app/api?username=yaokai123&show_icons=true&hide_title=true&hide_border=true&theme=default&rank_icon=github" alt="GitHub stats">
-<img height="168" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yaokai123&layout=compact&hide_border=true&theme=default" alt="Top languages">
+- 清晰的 runtime 边界
+- 可恢复的状态与记忆
+- 可治理的权限与审计
+- 可观测的 token 与成本
+- 可回放的证据链
+- 可评测的 benchmark / scorecard
+- 能被普通用户理解的产品界面
 
+---
 
-<img width="92%" src="https://github-readme-activity-graph.vercel.app/graph?username=yaokai123&theme=minimal&hide_border=true&area=true&color=0f766e&line=2563eb&point=111827" alt="GitHub activity graph">
+## Featured Projects
 
-</div>
+### XiaoBa CLI
 
-Engineering View
-Good AI products need more than a model call.
-I care about the surrounding system: the data contract, the fallback path, the operational view, the human review loop, and whether the interface helps users trust what the system is doing.
-I like building from the product workflow backward, then making the architecture earn its place.
-<div align="center">
+> 一个活在 IM、Dashboard 和本地工作区里的企业级 AI 同事运行时。
 
-Building AI systems that are useful, explainable, and ready for real workflows.
-GitHub: @yaokai123
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=0:111827,50:2563eb,100:0f766e" alt="Footer">
+XiaoBa CLI 是一套面向企业 Agent 落地的本地优先运行时。它把飞书/微信/CLI/Dashboard/桌宠入口、AI 角色、Skill、Tool、Memory、Evidence、Cost、Audit、Benchmark 组织成一个可以持续演进的工程系统。
+
+**我在这个项目里重点解决的问题：**
+
+- 让 Agent 从“单次模型回复”升级为“有角色、有任务、有证据、有验收”的 AI 同事。
+- 让不同 AI 同事承担不同职责：EngineerCat 负责实现，ReviewerCat 负责审查，InspectorCat 负责巡检，ResearcherCat 负责研究。
+- 为企业落地补齐权限、成本、审计、状态外部化和评测闭环。
+- 用 Dashboard 把 Issue Tracker、Skill Factory、Cost Center、Governance 和 Agent 工位卡做成可操作的控制台。
+
+**核心能力：**
+
+| 模块 | 能力 |
+| --- | --- |
+| IM-native Runtime | 支持 CLI、飞书、微信、Dashboard、桌宠等入口，任务从真实聊天场景发起。 |
+| AI 同事体系 | EngineerCat、ReviewerCat、InspectorCat、ResearcherCat 等角色分工协作。 |
+| Issue Tracker | 可配置任务阶段、任务类型模板、活动流、Agent DM prompt 和工位卡。 |
+| Skill Factory | Skill 生产、测评、scorecard、发布、回滚、自进化草稿。 |
+| Governance | tenant/workspace/user 身份贯穿、RBAC/ABAC、Tool 黑白名单、审计检索。 |
+| Cost Center | token/cost 聚合、预算策略、异常告警、Skill/Role 质量指标。 |
+| State Backends | Redis Session、MySQL Memory/Evidence/Audit、readiness check。 |
+| Evaluation | product replay、skill eval、scorecard、SWE-bench pilot。 |
+
+**技术栈：**
+
+```text
+TypeScript / Node.js / Electron / Express
+AgentSession / ConversationRunner / ToolManager
+Redis / MySQL / JSONL Evidence / Dashboard
+Feishu / Weixin / CLI / Desktop Pet
+Benchmarks / Replay / Scorecard / SWE-bench Pilot
+```
+
+---
+
+### MultimodalAgent
+
+> 一个面向校园心理健康场景的 Spring Boot 多模态 AI 助手。
+
+MultimodalAgent 更偏业务应用层：它把聊天、心理风险识别、Agentic RAG、多模态输入和工具接口组合成一个校园心理健康助手原型。相比 XiaoBa 更偏 runtime/platform，这个项目更偏“多模态 AI + 后端业务系统 + 风险辅助决策”。
+
+**项目关注点：**
+
+- 面向校园心理健康问答、风险识别和辅助评估。
+- 文本聊天、知识检索、心理测评、风险路由形成主业务链路。
+- 结合 Spring AI、Ollama/OpenAI、Chroma、Redis、MySQL 等组件。
+- 预留 Whisper 语音识别、MediaPipe 视觉分析、多模态输入与 MCP 工具接口。
+- 使用 SSE 支持流式对话体验。
+
+**核心链路：**
+
+```text
+用户输入
+  -> ChatController
+  -> ChatService
+  -> 意图识别
+  -> Agentic RAG / 心理评估 / 多模态风险信号
+  -> LLM 生成
+  -> SSE 流式返回
+  -> 报告 / 记录 / 后续干预
+```
+
+**技术栈：**
+
+```text
+Java 17 / Spring Boot 3 / WebFlux / Spring Security
+Spring AI / Ollama / OpenAI
+JPA / Redis / MySQL / Chroma / Mailpit
+SSE Chat / Agentic RAG / MCP-style Tools
+WhisperClient / MediaPipeClient / Psychological Assessment
+```
+
+**工程价值：**
+
+- 把多模态能力放进真实业务流程，而不是停留在单点 demo。
+- 将 RAG、风险评估、短期记忆、报告生成和外部工具组织成可维护的后端服务。
+- 关注心理健康类应用的安全边界、权限暴露、默认账号、MCP 暴露面和测试覆盖问题。
+
+---
+
+## Technical Focus
+
+```text
+AI Agent Runtime
+Enterprise AI Assistant
+Multimodal AI Application
+Spring AI / LLM Backend
+RAG / Knowledge Retrieval
+Tool Calling / MCP
+RBAC / ABAC / Audit
+Token Cost Observability
+Benchmark / Replay / Scorecard
+```
+
+---
+
+## Engineering Style
+
+- **先建 runtime，再接模型**：模型负责推理，runtime 负责状态、工具、权限、证据和恢复。
+- **先有边界，再做能力**：Tool、Skill、Role、Tenant、User、Resource 都要有清晰边界。
+- **先能评测，再谈优化**：复杂 Agent 任务必须能 replay、能打分、能回归。
+- **先落业务，再做炫技**：多模态能力要进入真实链路，例如风险识别、报告生成、知识检索和人工干预。
+- **先可观测，再长时间运行**：token、成本、日志、状态、错误和审计都要能被看见。
+
+---
+
+## What I'm Building Next
+
+- XiaoBa 的多租户 Issue Tracker 和审批流
+- Agent 工位卡与企业 IM / iOS 的实时同步
+- Skill Factory 的可视化生产流水线
+- 更强的 SWE-bench / product benchmark 自动修复能力
+- 多模态 Agent 的安全治理、评测集和生产部署闭环
+- Docker 安全沙箱与远程 Tool 执行隔离
+
+---
+
+## Contact
+
+如果你也在关注 AI Agent、企业 AI 助手、多模态 AI 应用、Spring AI、RAG、Skill Factory 或 Agent 评测体系，欢迎交流。
 
 </div>
