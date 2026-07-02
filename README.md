@@ -1,77 +1,121 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Kai+Yao+%F0%9F%91%8B;AI+Engineer+%7C+%E6%9E%84%E5%BB%BA%E8%80%85;Building+AI-Native+Products" alt="Typing SVG" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f766e,50:2563eb,100:111827&text=Yao%20Kai&fontColor=ffffff&fontSize=52&fontAlignY=38&desc=AI%20Agent%20Developer%20%7C%20Multimodal%20RAG%20%7C%20Real-time%20Voice%20AI&descAlignY=58&descSize=18" alt="Yao Kai banner">
 
-</div>
-
----
-
-### 关于我 · About Me
-
-一名 **AI 工程师**，专注于将 AI 能力落地为可用的产品。相信好的 AI 产品不是 demo 的堆砌，而是工程、体验和模型的有机结合。
-
-目前在探索 **AI Agent 运行时**、**多智能体协作** 和 **IM 原生 AI 交互**。平时用 Python 做模型和实验，用 TypeScript 搭工程和应用。
-
-> *"Make AI work, not just look cool."*
-
----
-
-### 技术栈 · Tech Stack
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=electron&logoColor=white" />
-  <img src="https://img.shields.io/badge/Anthropic-191919?style=flat-square&logo=anthropic&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
-</p>
-
----
-
-### 精选项目 · Featured
-
-<a href="https://github.com/yaokai123/XiaoBa-CLI">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=yaokai123&repo=XiaoBa-CLI&theme=tokyonight&hide_border=true&show_owner=false" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=yaokai123&repo=XiaoBa-CLI&theme=default&hide_border=true&show_owner=false" />
-    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=yaokai123&repo=XiaoBa-CLI&theme=default&hide_border=true&show_owner=false" />
-  </picture>
-</a>
-
-**XiaoBa (小八)** — 一个住在 IM 里的 AI 同事。不是终端聊天壳，也不是群里的复读机器人。它是一个本地优先的 AI Agent 运行时，为 AI 赋予了 "IM 原生身体"，让它们在聊天、文件、任务、工具和长期记忆之间像真人同事一样协作。
-
-- ⚙️ **TypeScript** 全栈，**Electron** 桌面端
-- 🤖 多角色系统：工程师猫、审查猫、检查员猫、研究员猫……
-- 🔧 内置工具链 + 技能系统，支持子代理后台任务
-- 🧪 完整 Benchmark 评估体系
-
----
-
-### 统计 · Stats
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=yaokai123&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&line_height=28&card_width=400" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=yaokai123&show_icons=true&theme=default&hide_border=true&include_all_commits=true&count_private=true&line_height=28&card_width=400" />
-    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=yaokai123&show_icons=true&theme=default&hide_border=true&include_all_commits=true&count_private=true&line_height=28&card_width=400" />
-  </picture>
-</p>
-
----
-
-### 联系 · Connect
-
-<p align="left">
+<p>
+  <a href="https://github.com/yaokai123?tab=repositories">
+    <img src="https://img.shields.io/badge/Projects-AI%20Agents%20%26%20RAG-0f766e?style=for-the-badge" alt="Projects">
+  </a>
   <a href="https://github.com/yaokai123">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/Focus-Production%20AI%20Systems-2563eb?style=for-the-badge" alt="Focus">
+  </a>
+  <a href="https://github.com/yaokai123">
+    <img src="https://img.shields.io/badge/GitHub-yaokai123-111827?style=for-the-badge&logo=github" alt="GitHub">
   </a>
 </p>
 
-<p align="center">
-  <samp>谢谢你的到访 · Thanks for stopping by</samp>
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&duration=2600&pause=900&color=0F766E&center=true&vCenter=true&width=820&lines=Building+AI+systems+that+are+useful+and+explainable;Connecting+LLMs%2C+RAG%2C+voice%2C+multimodal+signals+and+workflows;Turning+AI+demos+into+real+product+experiences" alt="Typing SVG">
+
+</div>
+
+About
+I build applied AI systems that combine LLMs, retrieval, voice interaction, multimodal analysis, and backend workflows. My focus is not only making models respond, but making the whole product loop reliable: data flow, safety boundaries, explainable results, operational dashboards, and deployment.
+I am currently working around AI agents, RAG systems, real-time voice AI, and human-in-the-loop support workflows.
+Featured Build
+<table>
+  <tr>
+    <td width="58%">
+      <h3>Multimodal MindCare Agent</h3>
+      <p>
+        A campus mental-health support system with student chat, RAG, multimodal risk assessment,
+        crisis workflow, admin case management, and real-time voice architecture.
+      </p>
+      <p>
+        <b>What makes it different:</b> it connects the full path from student conversation to
+        risk detection, support records, knowledge-grounded answers, administrator workflow,
+        and deployment with local GPU inference.
+      </p>
+    </td>
+    <td width="42%">
+      <b>Core stack</b><br><br>
+      Java 17<br>
+      Spring Boot / WebFlux<br>
+      Spring AI / Ollama / Qwen2.5<br>
+      RAG / Chroma / MySQL / Redis<br>
+      Docker Compose / GPU inference<br>
+      LiveKit / ASR / TTS
+    </td>
+  </tr>
+</table>
+
+Capability Map
+Layer	Capabilities
+Student Experience	SSE chat, mood journal, tiny tasks, support goals, conversation history
+Risk Workflow	Risk tickets, SLA handling, intervention timeline, contact records, audit logs
+Knowledge System	RAG citations, categories, retrieval test console, version management, feedback
+Multimodal AI	Text/audio/visual confidence, risk explanation, human review signal
+Voice AI	LiveKit control channel, Doubao ASR, Doubao TTS, interruption, session summary
+Deployment	Docker Compose, MySQL, Redis, Chroma, Mailpit, Ollama, GPU-backed inference
+
+Current Focus
+<table>
+  <tr>
+    <td><b>AI Agents</b></td>
+    <td>Tool use, control channels, workflow orchestration, long-running product flows</td>
+  </tr>
+  <tr>
+    <td><b>RAG Systems</b></td>
+    <td>Knowledge ingestion, citation tracing, retrieval quality, knowledge operations</td>
+  </tr>
+  <tr>
+    <td><b>Voice AI</b></td>
+    <td>Streaming ASR/TTS, interruptible dialogue, real-time voice assistant architecture</td>
+  </tr>
+  <tr>
+    <td><b>Multimodal AI</b></td>
+    <td>Signal fusion, confidence display, explainable risk output, review workflows</td>
+  </tr>
+  <tr>
+    <td><b>Backend Engineering</b></td>
+    <td>Spring Boot, WebFlux, REST/SSE APIs, Docker Compose, MySQL, Redis</td>
+  </tr>
+</table>
+
+Toolbox
+<p>
+  <img src="https://img.shields.io/badge/Java-17-007396?style=flat-square&logo=openjdk&logoColor=white" alt="Java">
+  <img src="https://img.shields.io/badge/Spring%20Boot-3.x-6DB33F?style=flat-square&logo=springboot&logoColor=white" alt="Spring Boot">
+  <img src="https://img.shields.io/badge/WebFlux-Reactive-6DB33F?style=flat-square" alt="WebFlux">
+  <img src="https://img.shields.io/badge/Python-AI%20Tools-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/Docker-Compose-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker">
+  <img src="https://img.shields.io/badge/MySQL-8.x-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL">
+  <img src="https://img.shields.io/badge/Redis-Cache-DC382D?style=flat-square&logo=redis&logoColor=white" alt="Redis">
+  <img src="https://img.shields.io/badge/Ollama-Local%20LLM-111111?style=flat-square" alt="Ollama">
+  <img src="https://img.shields.io/badge/Qwen2.5-LLM-1f2937?style=flat-square" alt="Qwen">
+  <img src="https://img.shields.io/badge/RAG-Knowledge%20Systems-0f766e?style=flat-square" alt="RAG">
+  <img src="https://img.shields.io/badge/Chroma-Vector%20DB-2563eb?style=flat-square" alt="Chroma">
+  <img src="https://img.shields.io/badge/LiveKit-Realtime%20Voice-00AEEF?style=flat-square" alt="LiveKit">
 </p>
+
+GitHub Snapshot
+<div align="center">
+
+<img height="168" src="https://github-readme-stats.vercel.app/api?username=yaokai123&show_icons=true&hide_title=true&hide_border=true&theme=default&rank_icon=github" alt="GitHub stats">
+<img height="168" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yaokai123&layout=compact&hide_border=true&theme=default" alt="Top languages">
+
+
+<img width="92%" src="https://github-readme-activity-graph.vercel.app/graph?username=yaokai123&theme=minimal&hide_border=true&area=true&color=0f766e&line=2563eb&point=111827" alt="GitHub activity graph">
+
+</div>
+
+Engineering View
+Good AI products need more than a model call.
+I care about the surrounding system: the data contract, the fallback path, the operational view, the human review loop, and whether the interface helps users trust what the system is doing.
+I like building from the product workflow backward, then making the architecture earn its place.
+<div align="center">
+
+Building AI systems that are useful, explainable, and ready for real workflows.
+GitHub: @yaokai123
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=0:111827,50:2563eb,100:0f766e" alt="Footer">
+
+</div>
