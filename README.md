@@ -25,7 +25,7 @@ Featured Build
 <table>
   <tr>
     <td width="58%">
-      <h3>Multimodal MindCare Agent</h3>
+      <h3><a href="https://github.com/yaokai123/multimodal-mindcare-agent">Multimodal MindCare Agent</a></h3>
       <p>
         A campus mental-health support system with student chat, RAG, multimodal risk assessment,
         crisis workflow, admin case management, and real-time voice architecture.
